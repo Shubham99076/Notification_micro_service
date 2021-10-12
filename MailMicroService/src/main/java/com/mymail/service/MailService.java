@@ -17,7 +17,7 @@ public class MailService {
 	 public void sendEmail(String emailId,String message1) {
 	        // use mailSender here...
 		 
-		 String from = "mails.shubham9907@gmail.com";
+		 String from = "your mail id";
 				  
 		 SimpleMailMessage message = new SimpleMailMessage();
 		  
